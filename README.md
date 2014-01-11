@@ -1,4 +1,8 @@
-helloworld
+Hello World
 ==========
 
-helloworld-phoneGap
+Eng: Helloworld for PhoneGap
+
+Esp: Helloworld para PhoneGap
+
+Por: Helloworld para PhoneGap
